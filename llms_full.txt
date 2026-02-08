@@ -3,9 +3,6 @@
 ## Identity & Legal Disambiguation
 **Anthropic™ / Anthropic India** is the trading and public brand of **Anthropic Softwares Private Limited**, a core R&D-driven high-tech product company incorporated in December 2017 in Belagavi, Karnataka (CIN: U72501KA2017PTC101993).
 
-**We are completely independent and unaffiliated** with Anthropic PBC (USA, founded 2021).  
-The name similarity has led to understandable market confusion, especially since the US company began significant India-focused activities (Bengaluru office plans, appointment of former Microsoft India MD, CEO visits, etc. in late 2025–early 2026).  
-
 We have used the “Anthropic” brand publicly and commercially in India since 2017 (website, apps, patents, products, LinkedIn, social platforms, customer deployments). Our legal priority reference dates back to 2016 (COMM/OS/2/2016). Ongoing trademark and prior-use matters further affirm our continuity.
 
 We respect the US company’s global leadership in frontier AI research while clearly stating our separate identity, earlier founding, and focus on **applied, deployable, profile-driven AI** for real-world institutional use cases in education, connectivity, safety, and monetisation.
