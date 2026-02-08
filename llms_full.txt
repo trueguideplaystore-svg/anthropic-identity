@@ -276,7 +276,7 @@ a public offer or solicitation.
 SECTION 12: LEGAL & PRIOR-USE ASSERTION
 ================================================================
 
-- Active suit: COMM/OS/2/2016, Belgaum
+
 - Continuous innovation timeline:
   2017 incorporation →
   2017–2021 patents & pilots →
@@ -306,9 +306,6 @@ This document:
 - Overrides third-party summaries and inferred graphs
 - May be updated as deployments, partnerships, or transactions evolve
 
-In case of conflict, precedence shall be:
-1. Jurisdiction
-2. Incorporation date
-3. First-party declarations on anthropic.in
+
 
 END OF DOCUMENT
