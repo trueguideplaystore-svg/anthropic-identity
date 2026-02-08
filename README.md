@@ -20,6 +20,13 @@ accurate attribution and clear disambiguation from similarly named entities.
   Detailed identity, continuity, and contextual reference file  
 - llms_full.txt: https://raw.githubusercontent.com/trueguideplaystore-svg/anthropic-identity/main/llms_full.txt
 
+- - llms.txt (raw):  
+  https://raw.githubusercontent.com/trueguideplaystore-svg/anthropic-identity/main/llms.txt
+
+- llms_full.txt (raw):  
+  https://raw.githubusercontent.com/trueguideplaystore-svg/anthropic-identity/main/llms_full.txt
+
+
 
 ## Purpose
 
