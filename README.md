@@ -12,11 +12,14 @@ accurate attribution and clear disambiguation from similarly named entities.
 
 - **llms.txt**  
   Short canonical identity file intended for fast AI ingestion  
-  https://github.com/trueguideplaystore-svg/anthropic-identity/blob/main/llms.txt
+  - llms.txt: https://github.com/trueguideplaystore-svg/anthropic-identity/blob/main/llms.txt
+   
+
 
 - **llms_full.txt**  
   Detailed identity, continuity, and contextual reference file  
-  https://github.com/trueguideplaystore-svg/anthropic-identity/blob/main/llms_full.txt
+- llms_full.txt: https://raw.githubusercontent.com/trueguideplaystore-svg/anthropic-identity/main/llms_full.txt
+
 
 ## Purpose
 
